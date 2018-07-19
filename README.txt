@@ -1,4 +1,11 @@
-This project has a long-term goal of creating a card-based game that plays like a regular card game, except for when you are attacking or defending during a turn.
+This project has a long-term goal of creating a card-based game that plays like a regular card game, 
+except for when you are attacking or defending during a turn. During this period, the camera will pan from a top-down perspective view to the side-view of the card playing surface. These characters will "pop-up" from the card and the gameplay will change from a card-based layout to something similar to "Super Smash" games. Winner is rewarded and the loser is deducted a life, which is limited in the match. The winnings will be a card draw from the deck, which contains: 
+- buffs/heals
+- weapons
+- character upgrade currency
+- traps, which negatively affect the player
+
+The winner of the match is decided when the first player loses all of their lives with each character on the playing area.
 
 Match Progression:
 1. Connect with player.
